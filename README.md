@@ -1,6 +1,6 @@
-### Hi there I'm Lekksha 👋
+<h2 align="center">## Hi there I'm Lekksha 👋<h2>
 
-## I'm a C# /.NET Developer 
+### I'm a C# /.NET Developer 
 - 🚀 Graduated from VOENMECH with a degree in Instrumentation of Spacecraft
 - 💪 Graduated from DevEducation IT-college with a degree of back-end development
 - 🌍 I speak Russian (native), English (B2)
@@ -18,6 +18,7 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ---
+## Stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AzarovRoman&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AzarovRoman&theme=solarized_dark)
 ---
