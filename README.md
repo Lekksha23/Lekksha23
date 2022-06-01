@@ -1,4 +1,4 @@
-<h2 align="center">## Hi there I'm Lekksha 👋<h2>
+<h2 align="center"> Hi there I'm Lekksha 👋 <h2>
 
 ### I'm a C# /.NET Developer 
 - 🚀 Graduated from VOENMECH with a degree in Instrumentation of Spacecraft
