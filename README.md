@@ -1,10 +1,10 @@
 <h2 align="center"> Hi there I'm Aleksey 👋 <h2>
 
 ### I'm a C# /.NET Developer 
-- 🚀 Graduated from VOENMECH with a degree in Instrumentation of Spacecraft
-- 💪 Graduated from DevEducation IT-college with a degree of back-end development
+- 🚀 Graduated from VOENMECH with a bachelor's degree in Instrumentation of Spacecraft
+- 💪 Graduated from DevEducation IT-college and passed internship in XCritical company
 - 🌍 I speak Russian (native), English (B2)
-- 🥅 Currently learning C#, SQL and Javascript
+- 🥅 Currently learning Javascript
 - 📫 Telegram: https://t.me/alevsey
 
 ## Languages and Tools:
@@ -23,30 +23,31 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AzarovRoman&theme=solarized_dark)
 ---
 
-Мои проекты:
+My projects:
 1) https://github.com/Lekksha23/MarvelousService
 
-Микро-сервис, занимающийся оформлением подписок на услуги.
-Используется Dapper для общения с базой данных, реализован паттерн MVC. Общение с другими микро-сервисами через RestSharp или RabbitMQ с MassTransit. Подключено логгирование. Аутентификация и авторизация через сторонний сервис Аутентификации.
-Все возможные сценарии протестированы с помощью NUnit и Moq (Покрытие 70%).
+A micro-service that handles subscriptions to services. I used Dapper to communicate with the database, 
+the MVC pattern is implemented. Communicating with other micro-services via RestSharp or RabbitMQ with MassTransit.
+Logging enabled. Authentication and authorization through a third-party Authentication service. All possible scenarios tested with NUnit and Moq (70% coverage)
 
 2) https://github.com/ValeraPo/CleanMOQasine
 
-Backend для сайта компании, занимающейся клинингом.
-Используется DI (Подключен самостоятельно). Entity Framework. Аутентификация с помощью JWT-токена. Реализован паттерн MVC. Авторизация осуществлена для разных ролей. Все возможные ошибки обрабатываются на middleware.
-Код протестирован с помощью библиотеки Moq и NUnit.
+Backend for a cleaning company website.
+I used DI. Entity Framework Core. Authentication with a JWT token. Implemented MVC pattern.
+Authorization is implemented for different roles. All possible errors are handled by the middleware.
+Code tested with Moq library and NUnit
 
 3) https://github.com/Arctic-beaver/KoCowork
 
-WPF приложение для системы коворкинга.
-Можно забронировать себе место, заказать продукты (снеки, воду).
-Реализован паттерн MVVM. Для работы с базой данных использован Dapper и Linq. Код тестировался через NUnit.
+WPF application for coworking system.
+You can reserve a seat, order groceries (snacks, water).
+Implemented MVVM pattern. Dapper and Linq were used to work with the database. The code was tested with NUnit.
 
-4) Имею опыт работы с сервисами:
-- CRM (у нас было более 4 млн записей в БД)
-- TransactionStore (было более 42 млн)
-- Сервис репортинга (содержащий информацию обо всех БД и выдающий интересную информацию об этих БД)
-- RatesApi (сервис, выдающий курсы валют)
-- Сервис обновления ролей лидов
-- Сервис настроек, которые нужны другим сервисам
-- Сервис Аутентификации. (Через этот сервис наши сервисы получали Jwt токены для лидов и токены для общения между микросервисами)
+4) I have experience with the following services:
+- CRM (we had over 4 million records in the database)
+- TransactionStore (was over 42 million records)
+- Reporting service (containing information about all databases and providing interesting information about them)
+- RatesApi (service that issues exchange rates)
+- Service for updating lead roles
+- Service settings that other services need
+- Service Authentication. (Through this service, our services received Jwt tokens for leads and tokens for communication between microservices)
